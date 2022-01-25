@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidNtlm", "AndroidNtlm\AndroidNtlm.csproj", "{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NtlmHttpHandler", "NtlmHttpHandler\NtlmHttpHandler.csproj", "{6160C7BD-393F-4C94-8819-92020C589F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB673710-5ACD-4580-AD5F-E1B4BD0A3666}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6160C7BD-393F-4C94-8819-92020C589F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6160C7BD-393F-4C94-8819-92020C589F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6160C7BD-393F-4C94-8819-92020C589F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6160C7BD-393F-4C94-8819-92020C589F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB4A786-364D-415C-B585-47EF7BD4B9D2}
+	EndGlobalSection
+EndGlobal
